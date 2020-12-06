@@ -4,6 +4,6 @@
 | :---: | ------------------- | :---: | :---: |
 |  01   | Report Repair       |   x   |   x   |
 |  02   | Password Philosophy |   x   |   x   |
-|  03   | Toboggan Trajectory |       |       |
+|  03   | Toboggan Trajectory |   x   |   x   |
 |  04   | Passport Processing |       |       |
-
+|  05   | Binary Boarding     |       |       |
